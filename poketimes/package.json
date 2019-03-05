@@ -1,16 +1,13 @@
 {
-  "name": "todoapp",
+  "name": "poketimes",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://rohitsancheti96.github.io/todo",
   "dependencies": {
     "react": "^16.8.2",
     "react-dom": "^16.8.2",
     "react-scripts": "2.1.5"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
